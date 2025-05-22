@@ -1,0 +1,344 @@
+[
+    {
+        "locality": "Adelanto",
+        "name": "Office of the Principal Legal Advisor, Los Angeles (Adelanto)",
+        "address_line_1": "10250 Rancho Road",
+        "city_state_zip": "Adelanto, CA 92301"
+    },
+    {
+        "locality": "Atlanta",
+        "name": "Office of the Principal Legal Advisor, Atlanta",
+        "address_line_1": "180 Ted Turner Drive, SW, Suite 332",
+        "city_state_zip": "Atlanta, GA 30303"
+    },
+    {
+        "locality": "Atlanta",
+        "name": "Office of the Principal Legal Advisor, Atlanta",
+        "address_line_1": "Peachtree Summit Federal Building",
+        "city_state_zip": "Atlanta, GA 30308"
+    },
+    {
+        "locality": "Baltimore",
+        "name": "Office of the Principal Legal Advisor, Baltimore ",
+        "address_line_1": "31 Hopkins Plaza, Room 1600",
+        "city_state_zip": "Baltimore, MD 21201"
+    },
+    {
+        "locality": "Batavia",
+        "name": "Office of the Principal Legal Advisor, Buffalo (Batavia)",
+        "address_line_1": "4250 Federal Drive",
+        "city_state_zip": "Batavia, NY 14020"
+    },
+    {
+        "locality": "Boston",
+        "name": "Office of the Principal Legal Advisor, Boston",
+        "address_line_1": "15 New Sudbury Street, Room 425",
+        "city_state_zip": "Boston, MA 02203"
+    },
+    {
+        "locality": "Brooklyn Heights",
+        "name": "Office of the Principal Legal Advisor, Detroit (Cleveland)",
+        "address_line_1": "925 Keynote Circle, Room 201",
+        "city_state_zip": "Brooklyn Heights, OH 44131"
+    },
+    {
+        "locality": "Buffalo",
+        "name": "Office of the Principal Legal Advisor, Buffalo",
+        "address_line_1": "250 Delaware Avenue, Suite 773",
+        "city_state_zip": "Buffalo, NY 14202"
+    },
+    {
+        "locality": "Centennial",
+        "name": "Office of the Principal Legal Advisor, Denver",
+        "address_line_1": "12445 East Caley Avenue",
+        "city_state_zip": "Centennial, CO 80111-6432"
+    },
+    {
+        "locality": "Chaparral",
+        "name": "Office of the Principal Legal Advisor, El Paso (Chaparral)",
+        "address_line_1": "Trial Attorney Unit",
+        "city_state_zip": "Chaparral, NM 88081"
+    },
+    {
+        "locality": "Charlotte",
+        "name": "Office of the Principal Legal Advisor, Atlanta (Charlotte)",
+        "address_line_1": "5701 Executive Center Drive, Suite 300",
+        "city_state_zip": "Charlotte, NC 28212"
+    },
+    {
+        "locality": "Chicago",
+        "name": "Office of the Principal Legal Advisor, Chicago",
+        "address_line_1": "55 E. Monroe Street",
+        "city_state_zip": "Chicago, IL 60603"
+    },
+    {
+        "locality": "Conroe",
+        "name": "Office of the Principal Legal Advisor, Houston (Conroe)",
+        "address_line_1": "806 Hilbig Road",
+        "city_state_zip": "Conroe, TX 77301"
+    },
+    {
+        "locality": "Detroit",
+        "name": "Office of the Principal Legal Advisor, Detroit",
+        "address_line_1": "Rosa Parks Federal Building",
+        "city_state_zip": "Detroit, MI 48226"
+    },
+    {
+        "locality": "Dilley",
+        "name": "Office of the Principal Legal Advisor, San Antonio (Dilley)",
+        "address_line_1": "300 El Rancho Way",
+        "city_state_zip": "Dilley, TX 78017"
+    },
+    {
+        "locality": "El Paso",
+        "name": "Office of the Principal Legal Advisor, El Paso",
+        "address_line_1": "11541 Montana Avenue, Suite O",
+        "city_state_zip": "El Paso, TX 79936"
+    },
+    {
+        "locality": "Elizabeth",
+        "name": "Office of the Principal Legal Advisor, Newark (Elizabeth)",
+        "address_line_1": "625 Evans Street, Room 135",
+        "city_state_zip": "Elizabeth, NJ 07201"
+    },
+    {
+        "locality": "Eloy",
+        "name": "Office of the Principal Legal Advisor, Phoenix (Eloy)",
+        "address_line_1": "1705 East Hanna Road",
+        "city_state_zip": "Eloy, AZ 85131"
+    },
+    {
+        "locality": "Florence",
+        "name": "Office of the Principal Legal Advisor, Phoenix (Florence)",
+        "address_line_1": "3250 N. Pinal Parkway Avenue",
+        "city_state_zip": "Florence, AZ 85132"
+    },
+    {
+        "locality": "Fort Snelling",
+        "name": "Office of the Principal Legal Advisor, Minneapolis-St. Paul",
+        "address_line_1": "1 Federal Drive, Suite 1800",
+        "city_state_zip": "Fort Snelling, MN 55111"
+    },
+    {
+        "locality": "Guaynabo",
+        "name": "Office of the Principal Legal Advisor, Miami (San Juan)",
+        "address_line_1": "7 Tabonuco Street",
+        "city_state_zip": "Guaynabo, PR 00968"
+    },
+    {
+        "locality": "Harlingen",
+        "name": "Office of the Principal Legal Advisor, San Antonio (Harlingen)",
+        "address_line_1": "1717 Zoy Street, Annex",
+        "city_state_zip": "Harlingen, TX 78552"
+    },
+    {
+        "locality": "Hartford",
+        "name": "Office of the Principal Legal Advisor, Boston (Hartford)",
+        "address_line_1": "450 Main Street, Room 483",
+        "city_state_zip": "Hartford, CT 06103-3060"
+    },
+    {
+        "locality": "Honolulu",
+        "name": "Office of the Principal Legal Advisor, Honolulu",
+        "address_line_1": "300 Ala Moana Boulevard",
+        "city_state_zip": "Honolulu, HI 96850"
+    },
+    {
+        "locality": "Houston",
+        "name": "Office of the Principal Legal Advisor, Houston",
+        "address_line_1": "126 Northpoint Drive, Room 2020",
+        "city_state_zip": "Houston, TX 77060 "
+    },
+    {
+        "locality": "Hyattsville",
+        "name": "Office of the Principal Legal Advisor, Hyattsville",
+        "address_line_1": "6505 Belcrest Road",
+        "city_state_zip": "Hyattsville, MD 20782"
+    },
+    {
+        "locality": "Imperial",
+        "name": "Office of the Principal Legal Advisor, Imperial",
+        "address_line_1": "2409 La Brucherie Road",
+        "city_state_zip": "Imperial, CA 92251"
+    },
+    {
+        "locality": "Indianapolis",
+        "name": "Office of The Principal Legal Advisor, Chicago (Indianapolis)",
+        "address_line_1": "575 N. Pennsylvania Street",
+        "city_state_zip": "Indianapolis, IN 46204"
+    },
+    {
+        "locality": "Irving",
+        "name": "Office of the Principal Legal Advisor, Dallas",
+        "address_line_1": "125 E. John Carpenter Fwy., Suite 500",
+        "city_state_zip": "Irving, TX 75062"
+    },
+    {
+        "locality": "Jena",
+        "name": "Office of the Principal Legal Advisor, New Orleans (Jena)",
+        "address_line_1": "830 Pinehill Road",
+        "city_state_zip": "Jena, LA 71342"
+    },
+    {
+        "locality": "Kansas City",
+        "name": "Office of the Principal Legal Advisor, Chicago (Kansas City)",
+        "address_line_1": "2345 Grand Boulevard, Suite 500",
+        "city_state_zip": "Kansas City, MO 64108"
+    },
+    {
+        "locality": "Las Vegas",
+        "name": "Office of the Principal Legal Advisor, Los Angeles (Las Vegas)",
+        "address_line_1": "501 S. Las Vegas Blvd, Suite 200",
+        "city_state_zip": "Las Vegas, NV 89101"
+    },
+    {
+        "locality": "Los Angeles",
+        "name": "Office of the Principal Legal Advisor, Los Angeles",
+        "address_line_1": "606 South Olive Street, 8th Floor",
+        "city_state_zip": "Los Angeles, CA 90014"
+    },
+    {
+        "locality": "Los Angeles",
+        "name": "Office of the Principal Legal Advisor, Los Angeles (North Los Angeles)",
+        "address_line_1": "300 N. Los Angeles Street",
+        "city_state_zip": "Los Angeles, CA 90012"
+    },
+    {
+        "locality": "Los Fresnos",
+        "name": "Office of the Principal Legal Advisor, San Antonio (Los Fresnos)",
+        "address_line_1": "27991 Buena Vista Blvd",
+        "city_state_zip": "Los Fresnos, TX 78566"
+    },
+    {
+        "locality": "Lumpkin",
+        "name": "Office of the Principal Legal Advisor, Atlanta (Lumpkin)",
+        "address_line_1": "146 CCA Road",
+        "city_state_zip": "Lumpkin, GA 31815"
+    },
+    {
+        "locality": "Memphis",
+        "name": "Office of the Principal Legal Advisor, New Orleans (Memphis)",
+        "address_line_1": "80 Monroe Avenue, Suite 200",
+        "city_state_zip": "Memphis, TN 38103"
+    },
+    {
+        "locality": "Miami",
+        "name": "Office of the Principal Legal Advisor, Miami",
+        "address_line_1": "18201 SW 12th Street",
+        "city_state_zip": "Miami, FL 33194-2700"
+    },
+    {
+        "locality": "Miami",
+        "name": "Office of the Principal Legal Advisor, Miami",
+        "address_line_1": "333 S. Miami Avenue, Suite 200",
+        "city_state_zip": "Miami, FL 33130"
+    },
+    {
+        "locality": "New Orleans",
+        "name": "Office of the Principal Legal Advisor, New Orleans",
+        "address_line_1": "423 Canal Street",
+        "city_state_zip": "New Orleans, LA 70130"
+    },
+    {
+        "locality": "New York",
+        "name": "Office of the Principal Legal Advisor, New York (Varick Street)",
+        "address_line_1": "201 Varick Street, Room 738",
+        "city_state_zip": "New York, NY 10014"
+    },
+    {
+        "locality": "New York",
+        "name": "Office of the Principal Legal Advisor, New York",
+        "address_line_1": "26 Federal Plaza, Room 1130",
+        "city_state_zip": "New York, NY 10278"
+    },
+    {
+        "locality": "Newark",
+        "name": "Office of the Principal Legal Advisor, Newark",
+        "address_line_1": "970 Broad Street, Room 1300 ",
+        "city_state_zip": "Newark, NJ 07102"
+    },
+    {
+        "locality": "Newburgh",
+        "name": "Office of the Principal Legal Advisor, New York (Newburgh)",
+        "address_line_1": "15 Governor Drive",
+        "city_state_zip": "Newburgh, NY 12550"
+    },
+    {
+        "locality": "Oakdale",
+        "name": "Office of the Principal Legal Advisor, New Orleans (Oakdale)",
+        "address_line_1": "1010 E. Whatley Road",
+        "city_state_zip": "Oakdale, LA 71463-1128"
+    },
+    {
+        "locality": "Omaha",
+        "name": "Office of the Principal Legal Advisor, Minneapolis-St. Paul (Omaha)",
+        "address_line_1": "1717 Avenue H, Room 174",
+        "city_state_zip": "Omaha, NE 68110"
+    },
+    {
+        "locality": "Orlando",
+        "name": "Office of the Principal Legal Advisor, Orlando ",
+        "address_line_1": "500 North Orange Avenue",
+        "city_state_zip": "Orlando, FL 32801"
+    },
+    {
+        "locality": "Pearsall",
+        "name": "Office of the Principal Legal Advisor, San Antonio (Pearsall)",
+        "address_line_1": "South Texas ICE Processing Center",
+        "city_state_zip": "Pearsall, TX 78061"
+    },
+    {
+        "locality": "Philadelphia",
+        "name": "Office of the Principal Legal Advisor, Philadelphia ",
+        "address_line_1": "900 Market Street, Suite 346",
+        "city_state_zip": "Philadelphia, PA 19107"
+    },
+    {
+        "locality": "Phoenix",
+        "name": "Office of the Principal Legal Advisor, Phoenix",
+        "address_line_1": "2035 N. Central Avenue",
+        "city_state_zip": "Phoenix, AZ 85004"
+    },
+    {
+        "locality": "Pompano Beach",
+        "name": "Office of the Principal Legal Advisor, Miami (Pompano Beach)",
+        "address_line_1": "3900 North Powerline Road",
+        "city_state_zip": "Pompano Beach, FL 33073"
+    },
+    {
+        "locality": "Portland",
+        "name": "Office of the Principal Legal Advisor, Seattle (Portland)",
+        "address_line_1": "1220 SW 3rd Avenue, Suite 300",
+        "city_state_zip": "Portland, OR 97204"
+    },
+    {
+        "locality": "San Antonio",
+        "name": "Office of the Principal Legal Advisor, San Antonio ",
+        "address_line_1": "1015 Jackson-Keller Road, Suite 100",
+        "city_state_zip": "San Antonio, TX 78213"
+    },
+    {
+        "locality": "San Diego",
+        "name": "Office of the Principal Legal Advisor, San Diego ",
+        "address_line_1": "880 Front Street, Suite 2246",
+        "city_state_zip": "San Diego, CA 92101"
+    },
+    {
+        "locality": "San Francisco",
+        "name": "Office of the Principal Legal Advisor, San Francisco - Detained",
+        "address_line_1": "630 Sansome Street, ",
+        "city_state_zip": "San Francisco, CA  94111"
+    },
+    {
+        "locality": "San Francisco",
+        "name": "Office of the Principal Legal Advisor, San Francisco ",
+        "address_line_1": "100 Montgomery Street, Suite 200",
+        "city_state_zip": "San Francisco, CA 94104"
+    },
+    {
+        "locality": "Santa Ana",
+        "name": "Office of the Principal Legal Advisor, Los Angeles (Santa Ana)",
+        "address_line_1": "1251 E. Dyer Road",
+        "city_state_zip": "Santa Ana, CA 92705"
+    }
+]
